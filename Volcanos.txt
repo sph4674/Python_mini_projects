@@ -1,0 +1,3 @@
+Volcano@,Latitude,Longitude,Location,Elevation
+509.000000,48.7767982,-121.810997,US,2001
+511.000000,48.118011,-121.111000,France,1001
